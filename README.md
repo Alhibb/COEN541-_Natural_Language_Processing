@@ -146,7 +146,10 @@ python hausa_classifier.py
 | Inference Speed | 153 samples/sec |
 
 ---
+![alt text](diagram-export-3-11-2025-3_48_31-PM.png) 
+![alt text](diagram-export-3-11-2025-3_56_57-PM.png)
 
+---
 ## Challenges
 1. **Hardware Limitations**:
    - Training on Dell i5 6th Gen (8GB RAM) achieved only 30% progress in 2 hours
