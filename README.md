@@ -1,5 +1,5 @@
-```markdown
-# DEPARTMENT OF COMPUTER ENGINEERING  
+```bash
+# DEPARTMENT OF COMPUTER ENGINEERING. 
 AHMADU BELLO UNIVERSITY, ZARIA  
 FIRST SEMESTER EXAMINATION  
 2024/2025 ACADEMIC SESSION  
@@ -90,7 +90,7 @@ Development of a Hausa-language news topic classifier using transfer learning te
 - Transformers 4.35.2
 - PyTorch 2.1.0
 - Gradio 4.12.0
-- CUDA-enabled GPU (when available)
+- CUDA-enabled GPU (using Google COLAB)
 
 ### Key Processes
 1. **Data Preparation**:
