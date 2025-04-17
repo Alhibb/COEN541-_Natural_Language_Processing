@@ -125,7 +125,7 @@ python hausa_classifier.py
 
 3. Access Options:
 - Local Deployment: `http://127.0.0.1:7860`
-- Cloud Demo: [Live Gradio Interface](https://5462c4b4ab7947e377.gradio.live)
+- Cloud Demo: [Live Gradio Interface](https://b2f05649db4d0bd1e4.gradio.live/)
 
 ---
 
